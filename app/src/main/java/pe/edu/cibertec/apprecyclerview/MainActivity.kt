@@ -47,8 +47,26 @@ class MainActivity : AppCompatActivity() {
             Personaje(6, "Miguel Huertas",
                 "holaaaa", "12:52",
                 "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
+            Personaje(1, "Miguel Torres",
+                "holaaaa", "18:52",
+                "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
+            Personaje(2, "Julia Melendez",
+                "holaaaa", "10:52",
+                "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
+            Personaje(3, "Luis Perez",
+                "holaaaa", "13:52",
+                "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
+            Personaje(4, "Pedro Medrano",
+                "holaaaa", "22:52",
+                "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
+            Personaje(5, "Rafael Torres",
+                "holaaaa", "15:52",
+                "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
+            Personaje(6, "Miguel Huertas",
+                "holaaaa", "12:52",
+                "https://fastly.picsum.photos/id/200/300/300.jpg?hmac=aX7NyPgACwrm5XddShN5y4dyKI--2Wx_YFthk6YtBVc"),
 
-        )
+            )
     }
 
 }
