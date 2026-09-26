@@ -29,7 +29,7 @@ class PersonajeAdapter(private var listaPersonaje: List<Personaje>)
                 binding.tvhora.text = hora
                 binding.tvmensaje.text = mensaje
                 Glide.with(itemView.context)
-                    .load(urlImagen)
+                    .load(urlImagen)//https://cibertec.edu.pe/images/inteligencia-art.png
                     .into(binding.ivfoto)
             }
         }
